@@ -60,4 +60,4 @@ other ).
  
 ## Project Documentation
 
-You can find the detailed documentation in the [PDF file](file:///D:/down/CSE_021_Project_Report_Template.docx_5%20(1)%20(2).pdf).
+You can find the detailed documentation in the [PDF file](https://drive.google.com/file/d/15464jD3yqU2SAwHPFybOYTsLx-MS2nT7/view?usp=sharing).
