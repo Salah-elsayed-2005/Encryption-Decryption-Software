@@ -10,7 +10,6 @@ Welcome to Our Project! This repository contains the C code capable of encryptin
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Project Documentation](#project-documentation)
 
 ## Abstract 
@@ -58,11 +57,6 @@ consider both need to be prime. An error message
 appears if entered p,q aren’t prime or equal to each
 other ).
 
-
-## Screenshots
-
-Testing a case where 
-V1=30 V, V2= 20V , C1= 5 uf, C2=20uf , k1,k2 = 1 , poles connection are reversed initially : 
  
 ## Project Documentation
 
